@@ -1,0 +1,29 @@
+table,tr,th,td{
+    border:solid 4px rgb(54, 25, 25);}  
+    body{
+        font-family: 'Comforter', cursive;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+      
+      li {
+        float: left;
+        background-color: #202c26;
+      }
+      
+      li a {
+        display: block;
+        color: rgb(255, 239, 222);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      li a:hover {
+        background-color: #0f6948;
+      }
+      
